@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: aquamarine;
+}
+h2{
+    margin-top: 100px;
+    text-align: center;
+    color: red;
+}
